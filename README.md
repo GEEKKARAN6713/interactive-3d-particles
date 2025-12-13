@@ -25,9 +25,9 @@
 
 ### 🖼️ Screenshot
 <div style="display: flex; gap: 10px;">
-  <img src="assets/Screenshot1.png" alt="Screenshot 1" width="32%">
-  <img src="assets/Screenshot2.png" alt="Screenshot 2" width="32%">
-  <img src="assets/Screenshot3.png" alt="Screenshot 3" width="32%">
+  <img src="assets/Screenshot1.png.png" alt="Screenshot 1" width="32%">
+  <img src="assets/Screenshot2.png.png" alt="Screenshot 2" width="32%">
+  <img src="assets/Screenshot3.png.png" alt="Screenshot 3" width="32%">
 </div>
 ---
 
