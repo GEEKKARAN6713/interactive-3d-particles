@@ -52,7 +52,7 @@ Experience 8,000 particles reacting instantly to your movement.
 
 1.  **Clone the Repo:**
     ```bash
-    `git clone https://github.com/GEEKKARAN6713/interactive-3d-particles.git`
+    git clone https://github.com/GEEKKARAN6713/interactive-3d-particles.git
     ```
 2.  **Open Project:** Open `index.html` in your browser.
 3.  **Grant Access:** Allow webcam access when prompted.
