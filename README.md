@@ -21,7 +21,7 @@
 ## 📸 Demo & Screenshots
 
 ### 🎥 Live Demo
-*(Paste your video link here after following Step 2 below)*
+
 
 ### 🖼️ Screenshot
 <div style="display: flex; gap: 10px;">
