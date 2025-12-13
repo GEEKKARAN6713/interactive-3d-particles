@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000;
+}
+
+video {
+    display: none; /* Hide the raw webcam feed */
+}
+
+#info {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#info h3 {
+    margin: 0 0 10px 0;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#info p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+}
