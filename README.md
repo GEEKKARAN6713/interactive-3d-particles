@@ -22,10 +22,7 @@
 
 ### 🎥 Live Demo
 
-
-https://github.com/user-attachments/assets/450993c7-35fd-47c1-bcb1-4d7ac7df7754
-
-
+https://github.com/user-attachments/assets/d00080ec-2ebf-4dcb-971d-81b12c529552
 
 ### 🖼️ Screenshot
 <div style="display: flex; gap: 10px;">
