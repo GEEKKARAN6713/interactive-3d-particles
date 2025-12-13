@@ -18,6 +18,16 @@
 
 ---
 
+## 📸 Demo & Screenshots
+
+### 🎥 Live Demo
+*(Paste your video link here after following Step 2 below)*
+
+### 🖼️ Screenshot
+<img src="assets/screenshot.png" alt="Project Screenshot" width="100%">
+
+---
+
 ## 🌟 Features
 
 Experience 8,000 particles reacting instantly to your movement.
@@ -45,10 +55,6 @@ Experience 8,000 particles reacting instantly to your movement.
 4.  **Interact:** Hold your hand up to the camera and control the particles!
 
 > **💡 Pro Tip:** For the best experience, run this using a local server (like Live Server in VS Code) to ensure smooth performance.
-
-## 📸 Screenshots
-
-*(Add your screenshots or a GIF of the project here)*
 
 ---
 
